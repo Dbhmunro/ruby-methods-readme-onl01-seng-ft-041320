@@ -3,3 +3,7 @@ def greeting # Method Signature
 end # Method Closing
 
 greeting
+greeting
+greeting
+greeting
+greeting
